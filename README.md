@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with react, postgres, golang, nodejs, python<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning golang, rabbitmq<br>
+🔭 I’m currently working at my own company cors.digital since 2018 <br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning golang, rabbitmq<br>
 
 
 ## 🌐 Socials:
